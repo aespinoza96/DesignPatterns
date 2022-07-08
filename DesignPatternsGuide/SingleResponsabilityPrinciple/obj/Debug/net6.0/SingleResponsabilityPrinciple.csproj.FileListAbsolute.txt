@@ -1,0 +1,15 @@
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/bin/Debug/net6.0/SingleResponsabilityPrinciple
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/bin/Debug/net6.0/SingleResponsabilityPrinciple.deps.json
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/bin/Debug/net6.0/SingleResponsabilityPrinciple.runtimeconfig.json
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/bin/Debug/net6.0/SingleResponsabilityPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/bin/Debug/net6.0/SingleResponsabilityPrinciple.pdb
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/SingleResponsabilityPrinciple.csproj.AssemblyReference.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/SingleResponsabilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/SingleResponsabilityPrinciple.AssemblyInfoInputs.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/SingleResponsabilityPrinciple.AssemblyInfo.cs
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/SingleResponsabilityPrinciple.csproj.CoreCompileInputs.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/SingleResponsabilityPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/refint/SingleResponsabilityPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/SingleResponsabilityPrinciple.pdb
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/SingleResponsabilityPrinciple.genruntimeconfig.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/SingleResponsabilityPrinciple/obj/Debug/net6.0/ref/SingleResponsabilityPrinciple.dll
