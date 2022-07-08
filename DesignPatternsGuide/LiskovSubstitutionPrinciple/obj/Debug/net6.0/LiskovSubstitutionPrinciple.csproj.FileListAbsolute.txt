@@ -1,0 +1,15 @@
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple.deps.json
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple.runtimeconfig.json
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple.pdb
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.AssemblyInfo.cs
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/refint/LiskovSubstitutionPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.pdb
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.genruntimeconfig.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/LiskovSubstitutionPrinciple/obj/Debug/net6.0/ref/LiskovSubstitutionPrinciple.dll
