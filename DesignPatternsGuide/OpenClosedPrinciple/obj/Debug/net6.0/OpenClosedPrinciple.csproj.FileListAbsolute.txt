@@ -1,0 +1,15 @@
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/bin/Debug/net6.0/OpenClosedPrinciple
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/bin/Debug/net6.0/OpenClosedPrinciple.deps.json
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/bin/Debug/net6.0/OpenClosedPrinciple.runtimeconfig.json
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/bin/Debug/net6.0/OpenClosedPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/bin/Debug/net6.0/OpenClosedPrinciple.pdb
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/OpenClosedPrinciple.csproj.AssemblyReference.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/OpenClosedPrinciple.AssemblyInfoInputs.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/OpenClosedPrinciple.AssemblyInfo.cs
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/OpenClosedPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/refint/OpenClosedPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/OpenClosedPrinciple.pdb
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/OpenClosedPrinciple.genruntimeconfig.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/OpenClosedPrinciple/obj/Debug/net6.0/ref/OpenClosedPrinciple.dll
