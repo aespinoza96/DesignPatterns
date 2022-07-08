@@ -1,0 +1,5 @@
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.AssemblyInfo.cs
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
