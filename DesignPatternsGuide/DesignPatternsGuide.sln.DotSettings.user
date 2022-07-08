@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9810ffbc_002D797c_002D413b_002D8405_002D39f91ca88a0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FirstTestSuite" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::C958AB1C-9F52-42E3-9EA3-A76D5D4EBF15::net6.0::BuilderPattern.UnitTests.FirstTestSuite&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ab6d499_002D30e4_002D4639_002D810e_002Df642cb6759be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstTestSuite #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::C958AB1C-9F52-42E3-9EA3-A76D5D4EBF15::net6.0::BuilderPattern.UnitTests.FirstTestSuite&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
