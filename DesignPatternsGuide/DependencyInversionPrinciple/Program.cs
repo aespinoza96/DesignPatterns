@@ -4,7 +4,7 @@
  * The idea to explain the Dependency Injection Principle is that when there is private data in a class, in this
  * scenario, the relations of the class "Relationships" are accessed from the low-level system and not by the
  * high-level system which would be in the "Research" class. To fix this, a new interface "IRelationshipBrowser"
- * is created in order to provide a method where the implementation could be changed in the classes that implement it.
+ * is created in order to provide a method where the implementation could be changed in the classes that implement it
  */
 
 namespace DependencyInversionPrinciple
