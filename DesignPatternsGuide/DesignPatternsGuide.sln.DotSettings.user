@@ -12,6 +12,7 @@
     &lt;TestId&gt;NUnit3x::98039E32-56B1-4C63-B039-1D0DB73436CD::net6.0::AdapterPattern.UnitTests+TestSuite.TestAdapterPattern&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::AF5C58B2-BCA9-4B9E-8797-054DBCF13652::net6.0::PrototypePattern.UnitTests.TestProtoypePatter&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::2C038C50-04D1-4742-9546-32A2BC54551D::net6.0::SingletonPattern.UnitTests.Test&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::FFDF4CDF-5E6B-4BA3-BA2D-2924F00EE96B::net6.0::BridgePattern.UnitTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>
