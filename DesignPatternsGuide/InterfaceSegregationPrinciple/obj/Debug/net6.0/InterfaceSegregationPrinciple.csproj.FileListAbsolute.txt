@@ -3,3 +3,13 @@
 /Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
 /Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.AssemblyInfo.cs
 /Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/bin/Debug/net6.0/InterfaceSegregationPrinciple
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/bin/Debug/net6.0/InterfaceSegregationPrinciple.deps.json
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/bin/Debug/net6.0/InterfaceSegregationPrinciple.runtimeconfig.json
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/bin/Debug/net6.0/InterfaceSegregationPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/bin/Debug/net6.0/InterfaceSegregationPrinciple.pdb
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/refint/InterfaceSegregationPrinciple.dll
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.pdb
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/InterfaceSegregationPrinciple.genruntimeconfig.cache
+/Users/alberto.espinoza/Documents/courses/DesignPatterns/DesignPatternsGuide/InterfaceSegregationPrinciple/obj/Debug/net6.0/ref/InterfaceSegregationPrinciple.dll

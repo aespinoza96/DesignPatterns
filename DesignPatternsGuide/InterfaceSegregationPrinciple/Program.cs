@@ -123,5 +123,10 @@ namespace InterfaceSegregationPrinciple
     {
       scanner.Scan(d);
     }
+
+    public static void Main(string[] args)
+    {
+      
+    }
   }
 }

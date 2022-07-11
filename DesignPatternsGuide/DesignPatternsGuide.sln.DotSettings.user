@@ -1,13 +1,16 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9810ffbc_002D797c_002D413b_002D8405_002D39f91ca88a0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FirstTestSuite" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9810ffbc_002D797c_002D413b_002D8405_002D39f91ca88a0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstTestSuite" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::C958AB1C-9F52-42E3-9EA3-A76D5D4EBF15::net6.0::BuilderPattern.UnitTests.FirstTestSuite&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::E1B93E44-1DAD-48C2-9C98-39FF9F6FFD92::net6.0::FactoryPattern.UnitTests.UnitTests.TestFactoryPattern&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::98039E32-56B1-4C63-B039-1D0DB73436CD::net6.0::AdapterPattern.UnitTests+TestSuite.TestAdapterPattern&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ab6d499_002D30e4_002D4639_002D810e_002Df642cb6759be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstTestSuite #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ab6d499_002D30e4_002D4639_002D810e_002Df642cb6759be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FirstTestSuite #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::C958AB1C-9F52-42E3-9EA3-A76D5D4EBF15::net6.0::BuilderPattern.UnitTests.FirstTestSuite&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::98039E32-56B1-4C63-B039-1D0DB73436CD::net6.0::AdapterPattern.UnitTests+TestSuite.TestAdapterPattern&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AF5C58B2-BCA9-4B9E-8797-054DBCF13652::net6.0::PrototypePattern.UnitTests.TestProtoypePatter&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>
