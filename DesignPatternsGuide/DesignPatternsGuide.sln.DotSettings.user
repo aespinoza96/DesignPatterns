@@ -15,6 +15,7 @@
     &lt;TestId&gt;NUnit3x::FFDF4CDF-5E6B-4BA3-BA2D-2924F00EE96B::net6.0::BridgePattern.UnitTests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::564A9EAF-35FF-4551-AE50-2DF96345D242::net6.0::CompositePattern.UnitTests.TestCompositePatter&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::87CD6561-A6F4-427B-BCFB-3CA4A2611B2C::net6.0::DecoratorPattern.UnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::088F405E-BD08-4925-9A09-27207B58981B::net6.0::FacadePattern.UnitTests.TestFacadePattern&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	
