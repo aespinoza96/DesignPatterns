@@ -13,6 +13,9 @@
     &lt;TestId&gt;NUnit3x::AF5C58B2-BCA9-4B9E-8797-054DBCF13652::net6.0::PrototypePattern.UnitTests.TestProtoypePatter&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::2C038C50-04D1-4742-9546-32A2BC54551D::net6.0::SingletonPattern.UnitTests.Test&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::FFDF4CDF-5E6B-4BA3-BA2D-2924F00EE96B::net6.0::BridgePattern.UnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::564A9EAF-35FF-4551-AE50-2DF96345D242::net6.0::CompositePattern.UnitTests.TestCompositePatter&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::87CD6561-A6F4-427B-BCFB-3CA4A2611B2C::net6.0::DecoratorPattern.UnitTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
+	
 	</wpf:ResourceDictionary>
