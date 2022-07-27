@@ -16,6 +16,8 @@
     &lt;TestId&gt;NUnit3x::564A9EAF-35FF-4551-AE50-2DF96345D242::net6.0::CompositePattern.UnitTests.TestCompositePatter&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::87CD6561-A6F4-427B-BCFB-3CA4A2611B2C::net6.0::DecoratorPattern.UnitTests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::088F405E-BD08-4925-9A09-27207B58981B::net6.0::FacadePattern.UnitTests.TestFacadePattern&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::FAB35FF8-0663-433D-BF2C-98AE40A499E1::net6.0::ProxyPattern.UnitTests.TestProxyPattern&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D53E106C-0B3C-45A9-8CFD-478202E13D13::net6.0::FlyweightPattern.UnitTests.TestFlyweightPattern&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	
