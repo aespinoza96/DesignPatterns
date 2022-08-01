@@ -12,6 +12,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d271c37_002De891_002D4a02_002Da224_002Dd59349897482/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestPattern" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::2545E40C-66A5-478C-B56D-657A447135D5::net6.0::CommandPattern.UnitTest.TestPattern&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D62C9AB5-D2F9-499D-BE34-F5EE0474C6DD::net6.0::Interpreter.UnitTest.TestPattern&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9810ffbc_002D797c_002D413b_002D8405_002D39f91ca88a0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstTestSuite" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
