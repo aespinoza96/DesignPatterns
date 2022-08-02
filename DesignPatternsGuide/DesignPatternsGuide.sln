@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{D62C9AB5-D2F9-499D-BE34-F5EE0474C6DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{1C6350C7-57A3-40AA-9FA8-7CD42A507754}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{D62C9AB5-D2F9-499D-BE34-F5EE0474C6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D62C9AB5-D2F9-499D-BE34-F5EE0474C6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D62C9AB5-D2F9-499D-BE34-F5EE0474C6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6350C7-57A3-40AA-9FA8-7CD42A507754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6350C7-57A3-40AA-9FA8-7CD42A507754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6350C7-57A3-40AA-9FA8-7CD42A507754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6350C7-57A3-40AA-9FA8-7CD42A507754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
