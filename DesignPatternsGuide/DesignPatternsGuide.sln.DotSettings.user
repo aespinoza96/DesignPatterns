@@ -24,6 +24,9 @@
     &lt;TestId&gt;NUnit3x::13625984-B44B-41E2-A4DF-11735C7CF40F::net6.0::StatePattern.UnitTest.TestPattern&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::C3B36A28-14DC-46E6-8DE8-71728ECE77D9::net6.0::Strategy_Pattern.UnitTest&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::25A57585-E583-4013-8C14-24B59F5E5DC2::net6.0::TemplateMethod.UnitTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0671558-FB48-4358-9D8C-24C14EFE4100::net6.0::VisitorPattern.UnitTest.SimpleAddition&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0671558-FB48-4358-9D8C-24C14EFE4100::net6.0::VisitorPattern.UnitTest.ProductOfAdditionAndValue&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0671558-FB48-4358-9D8C-24C14EFE4100::net6.0::VisitorPattern.UnitTest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9810ffbc_002D797c_002D413b_002D8405_002D39f91ca88a0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstTestSuite" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
