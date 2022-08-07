@@ -21,6 +21,7 @@
     &lt;TestId&gt;NUnit3x::B7EF1A5A-7817-449F-8B9D-312D4F5C431C::net6.0::ObserverPattern.UnitTest.SingleRatTest&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::B7EF1A5A-7817-449F-8B9D-312D4F5C431C::net6.0::ObserverPattern.UnitTest.TwoRatTest&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::B7EF1A5A-7817-449F-8B9D-312D4F5C431C::net6.0::ObserverPattern.UnitTest.ThreeRatsOneDies&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::13625984-B44B-41E2-A4DF-11735C7CF40F::net6.0::StatePattern.UnitTest.TestPattern&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9810ffbc_002D797c_002D413b_002D8405_002D39f91ca88a0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstTestSuite" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
